@@ -5,3 +5,5 @@ Com o link da API, utilizei o framework Scrapy do Python para realizar a raspage
 
 Com as ferramentas utilizadas, consegui fazer o scrap de 100 produtos de cada categoria. Porém, irei implementar novos códigos para trabalhar a paginação.
 
+*Todos os resultados foram importados em forma de uma planilha excel(xlsx).
+
