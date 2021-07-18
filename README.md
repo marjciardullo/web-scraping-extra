@@ -8,7 +8,7 @@ Este é um projeto realizado para o processo seletivo da vaga de estágio em web
 
 Para fazer a coleta dessas informações foi usado o framework **Scrapy**, da linguagem **Python**. Utilizando esse framework, optei por criar três spiders, 1 para cada categoria. Com elas, foi possível colher informações de quase todos os produtos, localizados em uma API do extra - onde estavam as informações como *nome, marca, url* - e do ViaVarejo - onde estavam o *idSku do produto, preço, parcelamento e o id do lojista*.
 
-## Criando novo projeto com o framework Scrapy
+## 📁 Criando novo projeto com o framework Scrapy
 
 1. Abra o seu terminal e instale o Scrapy:
 
