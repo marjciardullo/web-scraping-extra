@@ -51,7 +51,7 @@ Dentro dessa url, e após a coleta da maior parte de informações sugeridas, pe
 
 Após a solução elaborada em relação à paginação, coletei a maior parte de informações possíveis e salvei em csv através do comando:
 
-   ```scrapy crawl nomeDaSpider -o nome-Do-Arquivo.csv```
+   ```$ scrapy crawl nomeDaSpider -o nome-Do-Arquivo.csv```
 
 
 
